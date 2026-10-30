@@ -1,0 +1,23 @@
+LAPORAN ANALISIS NILAI MATEMATIKA
+====================================
+
+DAFTAR NILAI SISWA
+Andi: 80.0
+Budi: 70.0
+Citra: 90.0
+Dina: 60.0
+Eka: 85.0
+Fajar: 75.0
+Gita: 95.0
+Hani: 55.0
+Indra: 100.0
+Joko: 40.0
+
+HASIL ANALISIS
+------------------------------------
+Jumlah siswa: 10
+Nilai rata-rata: 75.0
+Nilai tertinggi: 100.0
+Nilai terendah: 40.0
+Siswa tuntas: 8
+Siswa tidak tuntas: 2
